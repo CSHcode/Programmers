@@ -1,10 +1,8 @@
 ## :blue_book: 중복된 숫자 개수
 
 #### :heavy_check_mark: 문제 설명 
-> 정수가 담긴 배열 array와 정수 n이 매개변수로 주어질 때, array에 n이 몇 개 있는 지를 return 하도록 solution 함수를 완성해보세요.
+> 정수 배열 numbers가 매개변수로 주어집니다. numbers의 각 원소에 두배한 원소를 가진 배열을 return하도록 solution 함수를 완성해주세요.
 
 #### :heavy_check_mark: 제한사항
-> * 1 ≤ array의 길이 ≤ 100 
-> * 0 ≤ array의 원소 ≤ 1,000
-> * 0 ≤ n ≤ 1,000 
-  
+> * -10,000 ≤ numbers의 원소 ≤ 10,000
+> * 1 ≤ numbers의 길이 ≤ 1,000
