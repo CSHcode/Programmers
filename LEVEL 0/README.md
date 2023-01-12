@@ -7,6 +7,11 @@
 |두 수의 합|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9)|:hammer:|
 |두 수의 차|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8)|:hammer:|
 |두 수의 곱|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1)|:hammer:|
+|몫 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
+|두 수의 나눗셈|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88)|:hammer:|
+|숫자 비교하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)|:hammer:|
+|배열 두 배 만들기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)|:hammer:|
+|나머지 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
 |99|[바로가기](|:hammer:|
 |99|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
