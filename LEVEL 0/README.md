@@ -12,6 +12,10 @@
 |숫자 비교하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)|:hammer:|
 |배열 두 배 만들기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)|:hammer:|
 |나머지 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
-|99|[바로가기](|:hammer:|
-|99|[바로가기](|:hammer:|
+|중앙값 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
+|최빈값 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%B5%9C%EB%B9%88%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
+|짝수는 싫어요|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%9D%EC%88%98%EB%8A%94%20%EC%8B%AB%EC%96%B4%EC%9A%94)|}|:hammer:|
+|88|[바로가기](|}|:hammer:|
+|88|[바로가기](|}|:hammer:|
+|88|[바로가기](|}|:hammer:|
 |:hammer:|:hammer:|:hammer:|
