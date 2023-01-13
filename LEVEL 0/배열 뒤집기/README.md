@@ -1,4 +1,4 @@
-## :blue_book: 피자 나눠 먹기 (3)
+## :blue_book: 배열 뒤집기
 
 #### :heavy_check_mark: 문제 설명 
 > 정수가 들어 있는 배열 num_list가 매개변수로 주어집니다. num_list의 원소의 순서를 거꾸로 뒤집은 배열을 return하도록 solution 함수를 완성해주세요.
