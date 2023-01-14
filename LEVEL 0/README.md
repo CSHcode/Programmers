@@ -28,5 +28,8 @@
 |짝수 홀수 개수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98)|:hammer:|
 |문자 반복 출력하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%20%EB%B0%98%EB%B3%B5%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)|:hammer:|
 |특정 문자 제거하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|:hammer:|
+|각도기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%81%EB%8F%84%EA%B8%B0)|:hammer:|
+|양꼬치|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%96%91%EA%BC%AC%EC%B9%98)|:hammer:|
+|짝수의 합|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
