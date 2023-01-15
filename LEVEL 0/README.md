@@ -31,5 +31,8 @@
 |각도기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%81%EB%8F%84%EA%B8%B0)|:hammer:|
 |양꼬치|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%96%91%EA%BC%AC%EC%B9%98)|:hammer:|
 |짝수의 합|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9)|:hammer:|
+|배열 자르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)|:hammer:|
+|외계행성의 나이|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4)|:hammer:|
+|진료순서 정하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%84%EB%A3%8C%20%EC%88%9C%EC%84%9C%20%EC%A0%95%ED%95%98%EA%B8%B0)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
