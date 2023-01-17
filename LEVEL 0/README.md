@@ -34,5 +34,9 @@
 |배열 자르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)|:hammer:|
 |외계행성의 나이|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4)|:hammer:|
 |진료순서 정하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%84%EB%A3%8C%20%EC%88%9C%EC%84%9C%20%EC%A0%95%ED%95%98%EA%B8%B0)|:hammer:|
+|순서쌍의 개수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
+|개미 군단|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
+|가위 바위 보|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4)|:hammer:|
+|구슬을 나누는 경우의 수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B5%AC%EC%8A%AC%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%9D%98%20%EC%88%98)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
