@@ -38,5 +38,13 @@
 |개미 군단|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%9C%EB%AF%B8%20%EA%B5%B0%EB%8B%A8)|:hammer:|
 |가위 바위 보|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4)|:hammer:|
 |구슬을 나누는 경우의 수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B5%AC%EC%8A%AC%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%9D%98%20%EC%88%98)|:hammer:|
+|88|[구슬을 나누는 경우의 수](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B5%AC%EC%8A%AC%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%9D%98%20%EC%88%98)|:hammer:|
+|88|[점의 위치 구하기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A0%90%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
+|88|[2차원으로 만들기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|:hammer:|
+|88|[공 던지기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B3%B5%20%EB%8D%98%EC%A7%80%EA%B8%B0)|:hammer:|
+|88|[배열 회전시키기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0)|:hammer:|
+|88|[주사위의 개수](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
+|88|[합성수 찾기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)|:hammer:|
+|88|[최댓값 만들기(1)](|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
