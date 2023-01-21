@@ -44,6 +44,6 @@
 |배열 회전시키기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0)|:hammer:|
 |주사위의 개수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
 |합성수 찾기|[바로라기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)|:hammer:|
-|최댓값 만들기(1)|[바로가기](|:hammer:|
+|최댓값 만들기(1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(1))|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
