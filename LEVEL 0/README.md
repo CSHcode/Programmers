@@ -45,5 +45,13 @@
 |주사위의 개수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
 |합성수 찾기|[바로라기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)|:hammer:|
 |최댓값 만들기(1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(1))|:hammer:|
+|팩토리얼|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC)|:hammer:|
+|모음제거|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AA%A8%EC%9D%8C%20%EC%A0%9C%EA%B1%B0)|:hammer:|
+|문자열 정렬하기(1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20(1))|:hammer:|
+|숨어있는 숫자의 덧셈(1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1))|:hammer:|
+|소인수분해|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)|:hammer:|
+|컨트롤제트|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%EC%A0%9C%ED%8A%B8)|:hammer:|
+|88|[바로가기](|:hammer:|
+|88|[바로가기](|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
