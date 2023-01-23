@@ -51,7 +51,7 @@
 |숨어있는 숫자의 덧셈(1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1))|:hammer:|
 |소인수분해|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)|:hammer:|
 |컨트롤제트|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%EC%A0%9C%ED%8A%B8)|:hammer:|
-|88|[바로가기](|:hammer:|
-|88|[바로가기](|:hammer:|
+|배열 원소의 길이|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%20%EC%9B%90%EC%86%8C%EC%9D%98%20%EA%B8%B8%EC%9D%B4)|:hammer:|
+|직사각형 넓이 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
