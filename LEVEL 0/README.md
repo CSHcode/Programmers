@@ -53,5 +53,11 @@
 |컨트롤제트|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%EC%A0%9C%ED%8A%B8)|:hammer:|
 |배열 원소의 길이|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%20%EC%9B%90%EC%86%8C%EC%9D%98%20%EA%B8%B8%EC%9D%B4)|:hammer:|
 |직사각형 넓이 구하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
+|캐릭터의 좌표|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%20%EC%A2%8C%ED%91%9C)|:hammer:|
+|최댓값 만들기 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(2))|:hammer:|
+|다항식 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%8B%A4%ED%95%AD%EC%8B%9D%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
+|숨어있는 숫자의 덧셈 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(2))|:hammer:|
+|삼각형의 완성조건 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(2))|:hammer:|
+|외계어 사전|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
