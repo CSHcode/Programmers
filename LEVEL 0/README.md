@@ -59,5 +59,7 @@
 |숨어있는 숫자의 덧셈 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(2))|:hammer:|
 |삼각형의 완성조건 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(2))|:hammer:|
 |외계어 사전|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84)|:hammer:|
+|저주의 숫자 3|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A0%80%EC%A3%BC%EC%9D%98%20%EC%88%AB%EC%9E%90%203)|:hammer:|
+|유한소수 판별하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
