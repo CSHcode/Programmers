@@ -67,5 +67,7 @@
 |삼각형의 완성조건 (1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(1))|:hammer:|
 |가까운 수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%88%98)|:hammer:|
 |369게임|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/369%EA%B2%8C%EC%9E%84)|:hammer:|
+|암호 해독|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85)|:hammer:|
+|대문자와 소문자|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%8C%80%EB%AC%B8%EC%9E%90%EC%99%80%20%EC%86%8C%EB%AC%B8%EC%9E%90)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
