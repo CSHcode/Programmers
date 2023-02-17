@@ -64,5 +64,8 @@
 |A로 B 만들기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/A%EB%A1%9C%20B%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|:hammer:|
 |k의 개수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/k%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
 |중복된 문자 제거|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A4%91%EB%B3%B5%EB%90%9C%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0)|:hammer:|
+|삼각형의 완성조건 (1)|[바로가기](|:hammer:|
+|88|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(1)|:hammer:|
+|88|[바로가기](|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
