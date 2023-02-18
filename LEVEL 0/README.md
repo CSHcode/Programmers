@@ -69,5 +69,9 @@
 |369게임|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/369%EA%B2%8C%EC%9E%84)|:hammer:|
 |암호 해독|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85)|:hammer:|
 |대문자와 소문자|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%8C%80%EB%AC%B8%EC%9E%90%EC%99%80%20%EC%86%8C%EB%AC%B8%EC%9E%90)|:hammer:|
+|영어가 싫어요|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%98%81%EC%96%B4%EA%B0%80%20%EC%8B%AB%EC%96%B4%EC%9A%94)|:hammer:|
+|인덱스 바꾸기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EB%B0%94%EA%BE%B8%EA%B8%B0)|:hammer:|
+|한번만 등장한 문자|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%ED%95%9C%20%EB%B2%88%EB%A7%8C%20%EB%93%B1%EC%9E%A5%ED%95%9C%20%EB%AC%B8%EC%9E%90)|:hammer:|
+|약수 |[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
