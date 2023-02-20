@@ -78,4 +78,6 @@
 |문자열 계산하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)|:hammer:|
 |배열의 유사도|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EB%8F%84)|:hammer:|
 |88|[바로가기](|:hammer:|
+|88|[바로가기](|:hammer:|
+|88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
