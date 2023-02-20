@@ -77,7 +77,7 @@
 |가장 큰 수 찾기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)|:hammer:|
 |문자열 계산하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)|:hammer:|
 |배열의 유사도|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EB%8F%84)|:hammer:|
-|88|[바로가기](|:hammer:|
-|88|[바로가기](|:hammer:|
+|숫자찾기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%AB%EC%9E%90%20%EC%B0%BE%EA%B8%B0)|:hammer:|
+|n의 배수 고르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/n%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
