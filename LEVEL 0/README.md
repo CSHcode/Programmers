@@ -79,5 +79,8 @@
 |배열의 유사도|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EB%8F%84)|:hammer:|
 |숫자찾기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%88%AB%EC%9E%90%20%EC%B0%BE%EA%B8%B0)|:hammer:|
 |n의 배수 고르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/n%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)|:hammer:|
+|자릿수 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
+|OX퀴즈|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/OX%ED%80%B4%EC%A6%88)|:hammer:|
+|문자열안에 문자열|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%88%EC%97%90%20%EB%AC%B8%EC%9E%90%EC%97%B4)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
