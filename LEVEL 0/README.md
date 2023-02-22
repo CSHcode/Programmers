@@ -82,5 +82,8 @@
 |자릿수 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
 |OX퀴즈|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/OX%ED%80%B4%EC%A6%88)|:hammer:|
 |문자열안에 문자열|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%88%EC%97%90%20%EB%AC%B8%EC%9E%90%EC%97%B4)|:hammer:|
+|제곱수 판별하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A0%9C%EA%B3%B1%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)|:hammer:|
+|세균 증식|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%84%B8%EA%B7%A0%20%EC%A6%9D%EC%8B%9D)|:hammer:|
+|문자열 정렬하기 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20(2))|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
