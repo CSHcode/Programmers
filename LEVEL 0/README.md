@@ -85,5 +85,10 @@
 |제곱수 판별하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A0%9C%EA%B3%B1%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)|:hammer:|
 |세균 증식|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%84%B8%EA%B7%A0%20%EC%A6%9D%EC%8B%9D)|:hammer:|
 |문자열 정렬하기 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20(2))|:hammer:|
+|7의 개수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/7%EC%9D%98%20%EA%B0%9C%EC%88%98)|:hammer:|
+|잘라서 배열로 저장하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%9E%98%EB%9D%BC%EC%84%9C%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)|:hammer:|
+|문자열 밀기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%80%EA%B8%B0)|:hammer:|
+|종이 자르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A2%85%EC%9D%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)|:hammer:|
+|연속된 수의 합|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%97%B0%EC%86%8D%EB%90%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9)|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
