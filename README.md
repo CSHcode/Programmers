@@ -7,7 +7,7 @@
 |------|---|---|---|
 |LEVEL 0|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200)|last update 2023.02.27|90문|
 |LEVEL 1|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201)|:hammer: 69문 대기중|:hammer:|
-|LEVEL 2|:hammer:|:hammer: 12문 대기중|
+|LEVEL 2|:hammer:|:hammer: 13문 대기중|
 
 
 
