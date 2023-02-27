@@ -90,5 +90,7 @@
 |문자열 밀기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%80%EA%B8%B0)|:hammer:|
 |종이 자르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%A2%85%EC%9D%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)|:hammer:|
 |연속된 수의 합|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%97%B0%EC%86%8D%EB%90%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9)|:hammer:|
+|다음에 올 숫자|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90)|:hammer:|
+|옹알이 (1)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%200/%EC%98%B9%EC%95%8C%EC%9D%B4%20(1))|:hammer:|
 |88|[바로가기](|:hammer:|
 |:hammer:|:hammer:|:hammer:|
