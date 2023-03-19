@@ -12,4 +12,5 @@
 |기사단원의 무기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0)|:hammer:|
 |과일 장수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98)|:hammer:|
 |푸드 파이트 대회|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C)|:hammer:|
+|햄버거 만들기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|:hammer:|
 |88|[바로가기](|:hammer:|
