@@ -16,5 +16,5 @@
 |옹알이 (2)|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%98%B9%EC%95%8C%EC%9D%B4%20(2))|:hammer:|
 |콜라 문제|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C)|:hammer:|
 |삼총사|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%82%BC%EC%B4%9D%EC%82%AC)|:hammer:|
-|88|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D)|:hammer:|
+|숫자짝꿍|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D)|:hammer:|
 |88|[바로가기](|:hammer:|
