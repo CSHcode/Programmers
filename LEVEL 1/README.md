@@ -20,4 +20,8 @@
 |성격 유형 검사하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)|:hammer:|
 |신고 결과 받기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0)|:hammer:|
 |나머지가 1이 되는 수 찾기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)|:hammer:|
+|최소직사각형|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)|:hammer:|
+|없는 숫자 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
+|부족한 금액 계산하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)|:hammer:|
+|숫자 문자열과 영단어|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)|:hammer:|
 |88|[바로가기](|:hammer:|
