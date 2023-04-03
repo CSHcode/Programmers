@@ -24,4 +24,6 @@
 |없는 숫자 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
 |부족한 금액 계산하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)|:hammer:|
 |숫자 문자열과 영단어|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)|:hammer:|
+|약수의 개수와 덧셈|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)|:hammer:|
+|로또의 최고 순위와 최저 순위|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)|:hammer:|
 |88|[바로가기](|:hammer:|
