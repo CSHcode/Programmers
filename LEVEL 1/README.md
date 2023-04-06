@@ -26,4 +26,7 @@
 |숫자 문자열과 영단어|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)|:hammer:|
 |약수의 개수와 덧셈|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)|:hammer:|
 |로또의 최고 순위와 최저 순위|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)|:hammer:|
+|음양 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
+|신규 아이디 추천|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)|:hammer:|
+|내적|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%82%B4%EC%A0%81)|:hammer:|
 |88|[바로가기](|:hammer:|
