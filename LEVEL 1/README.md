@@ -33,4 +33,6 @@
 |두 개 뽑아서 더하기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0)|:hammer:|
 |[카카오 인턴] 키패드 누르기|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)|:hammer:|
 |실패율|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8)|:hammer:|
+|체육복|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%B2%B4%EC%9C%A1%EB%B3%B5)|:hammer:|
+|모의고사|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)|:hammer:|
 |88|[바로가기](|:hammer:|
