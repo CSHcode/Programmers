@@ -36,3 +36,4 @@
 |체육복|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%B2%B4%EC%9C%A1%EB%B3%B5)|:hammer:|
 |모의고사|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)|:hammer:|
 |88|[바로가기](|:hammer:|
+|K번째수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/K%EB%B2%88%EC%A7%B8%EC%88%98)|:hammer:|
