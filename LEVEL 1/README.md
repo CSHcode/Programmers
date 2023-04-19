@@ -35,5 +35,6 @@
 |실패율|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8)|:hammer:|
 |체육복|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%B2%B4%EC%9C%A1%EB%B3%B5)|:hammer:|
 |모의고사|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)|:hammer:|
-|88|[바로가기](|:hammer:|
 |K번째수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/K%EB%B2%88%EC%A7%B8%EC%88%98)|:hammer:|
+|완주하지 못한 선수|[바로가기](https://github.com/CSHcode/Programmers/tree/main/LEVEL%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)|:hammer:|
+|88|[바로가기](|:hammer:|
